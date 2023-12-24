@@ -1,4 +1,5 @@
 # Riset Informatika
 <hr>
 oleh : 
-###**Raihan Thobie N M**
+
+### **Raihan Thobie N M**
