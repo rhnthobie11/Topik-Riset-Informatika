@@ -1,1 +1,1 @@
-# nanti masukin berkas pdf disini
+## Proposal Riset berdasarkan studi kasus yang diambil
