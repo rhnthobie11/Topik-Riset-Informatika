@@ -1,3 +1,4 @@
-### Riset Informatika
+# Riset Informatika
 <hr>
-oleh : **Raihan Thobie N M**
+oleh : 
+###**Raihan Thobie N M**
